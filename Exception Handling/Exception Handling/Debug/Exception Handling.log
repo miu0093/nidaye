@@ -1,0 +1,20 @@
+﻿Build started 18/10/2016 13:16:57.
+     1>Project "E:\practise\Exception Handling\Exception Handling\Exception Handling.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\practise\exception handling\exception handling\source.cpp(12): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>e:\practise\exception handling\exception handling\source.cpp(28): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>e:\practise\exception handling\exception handling\source.cpp(35): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>e:\practise\exception handling\exception handling\source.cpp(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>e:\practise\exception handling\exception handling\source.cpp(47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>e:\practise\exception handling\exception handling\source.cpp(67): warning C4018: '<': signed/unsigned mismatch
+     1>e:\practise\exception handling\exception handling\source.cpp(81): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\practise\Exception Handling\Debug\Exception Handling.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\practise\Exception Handling\Debug\Exception Handling.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\practise\Exception Handling\Debug\Exception Handling.lib" /MACHINE:X86 Debug\Source.obj
+         Exception Handling.vcxproj -> E:\practise\Exception Handling\Debug\Exception Handling.exe
+     1>Done Building Project "E:\practise\Exception Handling\Exception Handling\Exception Handling.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.24

@@ -1,0 +1,18 @@
+﻿Build started 05/10/2016 18:06:32.
+     1>Project "E:\practise\Project3\Project3\Project3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source1.cpp
+         Source1.cpp
+     1>e:\practise\project3\project3\source1.cpp(31): error C2447: '{': missing function header (old-style formal list?)
+     1>e:\practise\project3\project3\source1.cpp(61): error C2731: 'main': function cannot be overloaded
+         e:\practise\project3\project3\source1.cpp(61): note: see declaration of 'main'
+     1>e:\practise\project3\project3\source1.cpp(66): error C2059: syntax error: '>'
+     1>e:\practise\project3\project3\source1.cpp(67): error C2059: syntax error: '>'
+     1>e:\practise\project3\project3\source1.cpp(74): error C2146: syntax error: missing ';' before identifier 'ap'
+     1>e:\practise\project3\project3\source1.cpp(74): error C2059: syntax error: '>'
+     1>e:\practise\project3\project3\source1.cpp(75): error C2059: syntax error: '>'
+     1>Done Building Project "E:\practise\Project3\Project3\Project3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.82
